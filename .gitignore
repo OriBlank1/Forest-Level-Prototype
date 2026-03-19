@@ -1,0 +1,17 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Large assets (important)
+*.zip
+*.uasset
+
+# Optional (if still too big)
+Content/StarterContent/
+
+# System
+.vscode/
+*.sln
+*.suo
